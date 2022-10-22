@@ -1,0 +1,2 @@
+# Hacktoberfest2022NewRepo
+Repository for Hacktoberfest2022
