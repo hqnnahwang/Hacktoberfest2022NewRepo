@@ -7,7 +7,7 @@ Use this project to make your first contribution to an open source project on Gi
 
 * Add your name to the 'CONTRIBUTORS.md' file
     
-* Add a simple script to say your favorite book in any language in script folder, filename in the format of yourname_favoritebook.xx
+* Add a simple script to say your favorite sport in any language in script folder, filename in the format of yourname_favoritesport.xx
 
 ## Getting started
 * Fork this repository
