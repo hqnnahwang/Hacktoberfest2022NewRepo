@@ -12,3 +12,8 @@
  - Place: Bellevue, WA/USA
  - Bio: High School Student.
  - Github: [brian zheng](https://github.com/gitbrainhub)
+
+#### Name: Tharaneeshwaran V U
+ - Place: Puducherry, India
+ - Bio: High School Student.
+ - Github: [brian zheng](https://github.com/eeshwarantharan)
